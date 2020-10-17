@@ -52,7 +52,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+<img src='Twitt_walkthrough.gif' title='Walkthrough ' width='' alt='Video Walkthrough' />
 
 ## Open-source libraries used
 
